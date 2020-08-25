@@ -1,0 +1,34 @@
+body {
+    background-color: grey;
+}
+h1 {
+    background-color: greenyellow;
+}
+
+h2{
+    background-color:wheat;
+}
+
+ #p1 {
+    background-color:blueviolet;
+ }
+
+.p2 {
+    background-color:darkred;
+}
+
+#li1 {
+    color:rosybrown;
+}
+
+#li2 {
+    color:aqua;
+}
+
+#li3 {
+    color:salmon;
+}
+
+#li4 {
+    color:pink;
+}
